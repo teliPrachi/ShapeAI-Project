@@ -1,5 +1,5 @@
 # ShapeAI-Project
-Download yolovweights from (github doesn't allow big files
+Download yolovweights from (github doesn't allow big files)
 https://drive.google.com/file/d/1M5LHAINSHtGvRx0L9AyPS94LpHOwXu5h/view?usp=sharing
 
 To run it
